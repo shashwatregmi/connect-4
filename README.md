@@ -10,3 +10,14 @@ Next, the computer places a checker on the board (placement dependant on difficu
 ## Program Screenshots:
 
 
+**Introduction to the game:**
+![](image1.png)
+
+**User Gameplay:**
+![](image2.png)
+
+**Error Handling and CPU gameplay:**
+![](image3.png)
+
+**End of game:**
+![](image4.png)
